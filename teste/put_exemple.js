@@ -1,4 +1,5 @@
 const request = require('supertest');
+const ssrfFilter = require('ssrf-req-filter');
 const chai = require('chai');
 var assert = chai.assert;
 
