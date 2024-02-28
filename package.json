@@ -23,6 +23,7 @@
     "supertest": "^6.3.3"
   },
   "dependencies": {
+    "@babel/traverse": "^7.24.0",
     "request": "^2.88.2"
   },
   "description": ""
