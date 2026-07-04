@@ -11,7 +11,7 @@
   "devDependencies": {
     "form-data": ">=4.0.6",
     "@babel/cli": "^7.20.7",
-    "@babel/core": "^7.20.12",
+    "@babel/core": "^7.29.6",
     "@babel/node": "^7.20.7",
     "@babel/preset-env": "^7.20.2",
     "@babel/register": "^7.18.9",
